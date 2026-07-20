@@ -1,8 +1,6 @@
-"use client";
 import Image from "next/image";
 
 export default function Home() {
-  console.log("test deployment>>>");
   return (
     <div className="flex flex-col flex-1">
       <main className="flex flex-1 w-full flex-col items-center justify-center px-2 bg-background-main">
